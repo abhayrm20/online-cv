@@ -74,10 +74,10 @@ publications:
     title: Publications
 
     papers:
-      - title: The Art of Computer Programming
+      - title: Wireless Network Smart Grid for Continuous Power Supply and Monitoring
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: "Dr. Suresha, Dr. Parvathi C., Ashritha C., Abhay R. Muni"
+        conference: " International Journal of Recent Technology and Engineering, ISSN: 2277-3878, Volume-8 Issue-3, September 2019"
 
 skills:
     title: Skills &amp; Proficiency
@@ -89,17 +89,17 @@ skills:
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: Node and Express JS
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: PHP
         level: 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Made with <i class="fas fa-heart"></i> by <a href="http://abhayrm.com" target="_blank" rel="nofollow">Abhay Rudramuni</a>
