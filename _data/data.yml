@@ -58,39 +58,26 @@ projects:
     title: Projects
     intro: These are a few projects I have worked on.
     assignments:
-      - title: Call-amity:
+      - title: "Call-amity"
         link: "https://devfolio.co/submissions/callamity"
         tagline: "A portal designed to manage ourselves at a calamity with must needed yet unique features. Nominated among the top 9 projects at OnLoad 2.0, a national level hackathon."
 
-      - title: Go Khareedo
+      - title: "Go Khareedo"
         link: "https://gokhareedo.in"
         tagline: "A webapp designed and launched as a solution for CoVid struggles and also made live. A portal which allows customers to order from nearby stores.So that the shopkeepers can keep the requested items ready. Once it is done, a time slot is assigned to the customer, so that the customer can just show up and pick their order. This drastically reduces time spent by customers at the store, and the time scheduling helps in reducing the crowd and queue at the shops."
 
-      - title: WSN Smart Grids for Continuous Power Supply and Monitoring
+      - title: "WSN Smart Grids for Continuous Power Supply and Monitoring"
         link: "#"
         tagline: "A product designed to ensure continuous power supply and monitor the same in real-time and intimate faults automatically. Funded by Vision Group of Science and Technology, Govt. of Karnataka, under the scheme K-FIST(L1)."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
