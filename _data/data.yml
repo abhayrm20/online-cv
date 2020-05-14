@@ -66,10 +66,9 @@ projects:
         link: "https://gokhareedo.in"
         tagline: "A webapp designed and launched as a solution for CoVid struggles and also made live. A portal which allows customers to order from nearby stores.So that the shopkeepers can keep the requested items ready. Once it is done, a time slot is assigned to the customer, so that the customer can just show up and pick their order. This drastically reduces time spent by customers at the store, and the time scheduling helps in reducing the crowd and queue at the shops."
 
-      - title: Tempo
+      - title: WSN Smart Grids for Continuous Power Supply and Monitoring
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
+        tagline: "A product designed to ensure continuous power supply and monitor the same in real-time and intimate faults automatically. Funded by Vision Group of Science and Technology, Govt. of Karnataka, under the scheme K-FIST(L1)."
 
 publications:
     title: Publications
